@@ -8,29 +8,29 @@
 * [License](#license)
 * [Contributions](#contributions)
 
+![Horiseon Home Page](assets/images/horiseon.png)
+
 ## Description
 
-For this class assignment, I was given a functional webpage for a fictitous SEO agency with two main goals for improvement:
-
-My primary goal was to improve accessibility of the webpage through a code refactor
-
-along with the following instructions:
-- Refactor HTML and CSS code to improve accessibility
-- Improve efficiency and structure of HTML and CSS code for benefit of future developers
-- 
+The assignment objective was to clean up and consolidate the HTML and CSS of this marketing company's webpage in order to:
+- Make the page's content more accessible
+- Improve the readability and sustainability of the code
 
 
-## HTML Refactor
+## HTML Updates
+- Replaced all Divs with semantic HTML tags: Header, Nav, Main, Section, Aside and Footer
+- Replaced all one-off classes with IDs
+- Added Alt tags to all images and icons
+- Removed unnecessary '/' from Img tags
+- Added Role and Aria-label tags to Hero section (see [Contributions](#contributions))
 
-Before | After
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
 
 
 ## CSS Refactor
-
-- [x] this is a complete item
+- Selectors and properties consolidated
+- Code re-ordered to match semantic structure of HTML
+- Commented section headers added
+- Type styles defined in distinct declarations
 
 
 ## License
@@ -59,3 +59,5 @@ SOFTWARE.
 
 
 ## Contributions
+
+I followed guidance and formatting from [David MacDonald](http://www.davidmacd.com/blog/alternate-text-for-css-background-images.html) on the topic of applying Alt text for background images.
