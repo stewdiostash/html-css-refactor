@@ -8,7 +8,7 @@
 * [License](#license)
 * [Contributions](#contributions)
 
-![Horiseon Home Page](assets/images/horiseon.png)
+![Horiseon Home Page](assets/images/horiseon.jpg)
 
 ## Description
 
