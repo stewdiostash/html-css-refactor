@@ -21,6 +21,7 @@ The assignment objective was to clean up and consolidate the HTML and CSS of thi
 
 ## HTML Updates
 - Replaced all Divs with semantic HTML tags: Header, Nav, Main, Section, Aside and Footer
+- Linked all Nav items to sections with IDs
 - Replaced all one-off classes with IDs
 - Added Alt tags to all images and icons
 - Removed unnecessary '/' from Img tags
