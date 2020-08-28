@@ -3,12 +3,14 @@
 ## Table of Contents
 
 * [Description](#description)
-* [HTML](#html)
-* [CSS](#css)
-* [License](#license)
+* [HTML Updates](#html)
+* [CSS Updates](#css)
 * [Contributions](#contributions)
+* [License](#license)
+
 
 ![Horiseon Home Page](assets/images/horiseon.jpg)
+
 
 ## Description
 
@@ -25,12 +27,16 @@ The assignment objective was to clean up and consolidate the HTML and CSS of thi
 - Added Role and Aria-label tags to Hero section (see [Contributions](#contributions))
 
 
-
 ## CSS Refactor
 - Selectors and properties consolidated
 - Code re-ordered to match semantic structure of HTML
 - Commented section headers added
-- Type styles defined in distinct declarations
+- Type styles defined in a discreet section
+
+
+## Contributions
+
+I followed guidance and formatting from [David MacDonald](http://www.davidmacd.com/blog/alternate-text-for-css-background-images.html) on the topic of applying Alt text for background images.
 
 
 ## License
@@ -56,8 +62,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-
-## Contributions
-
-I followed guidance and formatting from [David MacDonald](http://www.davidmacd.com/blog/alternate-text-for-css-background-images.html) on the topic of applying Alt text for background images.
